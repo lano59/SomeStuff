@@ -1,0 +1,1 @@
+This is a test application to play around and learn angular JS
